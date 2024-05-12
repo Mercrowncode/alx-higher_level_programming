@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# This Script runs a Python script. 
+python3 hello.py "$PYFILE" 
