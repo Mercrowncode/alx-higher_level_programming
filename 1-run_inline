@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# A shell Scritp that runs a python code. 
+
+pythons -c "PYCODE"
