@@ -1,4 +1,3 @@
 #!/usr/bin/python3
-
-for i in range(97, 123):
-    print("{:c}".format(1), end="")  
+# Using one print function with string format and one loop
+print(''.join(chr(x) for x in range(97, 123)), end='')
